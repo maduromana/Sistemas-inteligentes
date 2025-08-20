@@ -44,7 +44,7 @@ O relatório em PDF contém:
 
 ## Autores
 
-- **Maria Eduarda Romana Silva**  
+- **Maria Eduarda Romana**  
 - **Nicolas Romano**
 
 ---
